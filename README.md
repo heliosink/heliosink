@@ -1,19 +1,6 @@
 ![image](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 # 💫About Me :
-欢迎来到我的世界！
-我是 梁玉辉。
-我曾是信息技术大学（UIT）的大三学生，
-并在大三时曾在 Ban Vien Corporation 实习。
-
-我在大学时主修 嵌入式系统与物联网，
-但我的专业方向是 人工智能（AI）、机器学习（ML）和深度学习（DL）。
-我主要专注于 计算机视觉（Computer Vision），
-偶尔也会研究 自然语言处理（NLP），但涉及不多。
-
-我仍在探索机器学习的道路上，
-追逐我一生的热爱与梦想。
-如果你不介意的话，
-我们可以一起同行吗？
+Juste quelqu’un qui fait de la recherche sur les robots humanoïdes
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/hydros9412) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/hydros_9412/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shinz0912/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://x.com/shinlnh0412) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/@shinz0412) 
