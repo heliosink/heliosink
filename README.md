@@ -15,17 +15,6 @@ Juste quelqu’un qui fait de la recherche sur les robots humanoïdes
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=shinlnh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=shinlnh&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Shinlnh912) 
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
