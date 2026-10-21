@@ -51,7 +51,7 @@ Juste quelqu’un qui fait de la recherche sur les robots humanoïdes.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-## 📊 GitHub Stats
+## 📊 Helios GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=heliosink&show_icons=true&theme=radical&hide_border=true" alt="GitHub statistics" />
