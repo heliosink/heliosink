@@ -4,7 +4,7 @@
 
 # 💫 About Me
 
-Juste quelqu’un qui fait de la recherche sur les robots humanoïdes.
+Bare en som forsker på humanoide roboter.
 
 ## 🌐 Socials
 
