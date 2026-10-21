@@ -54,7 +54,7 @@ Juste quelqu’un qui fait de la recherche sur les robots humanoïdes.
 ## 📊 Helios GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heliosink&show_icons=true&theme=radical&hide_border=true" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=heliosink&show_icons=true&theme=radical&hide_border=true&custom_title=Helios%20GitHub%20Stats" alt="GitHub statistics" />
   <br />
   <img src="https://streak-stats.demolab.com?user=heliosink&theme=radical&hide_border=true" alt="GitHub contribution streak" />
   <br />
