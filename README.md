@@ -10,9 +10,9 @@
 > 笑問客從何處來
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eTg5Mjg3YXJ6Mm9nM2d6NTVvY20xbGJ5Z3p1Nm8wODVtOW9zdjl6NCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/jdXYrgGNmUgFSdXCG5/giphy.gif" height="360" alt="Animated mathematics illustration" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eTg5Mjg3YXJ6Mm9nM2d6NTVvY20xbGJ5Z3p1Nm8wODVtOW9zdjl6NCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/jdXYrgGNmUgFSdXCG5/giphy.gif" width="45%" align="top" alt="Animated mathematics illustration" />
   &nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/VKhy75415VD7QxHX0L/giphy.gif" height="360" alt="Animated retro arcade illustration" />
+  <img src="https://media.giphy.com/media/VKhy75415VD7QxHX0L/giphy.gif" width="45%" align="top" alt="Animated retro arcade illustration" />
 </p>
 
 ## 🌐 Socials
