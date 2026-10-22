@@ -9,6 +9,10 @@
 > 兒童相見不相識  
 > 笑問客從何處來
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eTg5Mjg3YXJ6Mm9nM2d6NTVvY20xbGJ5Z3p1Nm8wODVtOW9zdjl6NCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/jdXYrgGNmUgFSdXCG5/giphy.gif" width="480" alt="Animated illustration" />
+</p>
+
 ## 🌐 Socials
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/heliosliangg)
